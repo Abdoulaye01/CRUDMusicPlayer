@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist>
+<dict>
+	<trackId>1</trackId>
+   <name>Landslide</name>
+ <artist>Fleetwood Mac</artist>
+  <album>The Dance</album>
+  <genre>rock</genre>
+  <year>1997</year>	
+</dict>
+<dict>
+	<trackId>2</trackId>
+   <name>Landslide</name>
+ <artist>Fleetwood Mac</artist>
+  <album>The Dance</album>
+  <genre>rnb</genre>
+  <year>1995</year>
+</dict>
+<dict>
+	<trackId>3</trackId>
+   <name>Landslide</name>
+ <artist>Fleetwood Mac</artist>
+  <album>The Dance</album>
+  <genre>dingle</genre>
+  <year>1990</year>
+</dict>
+<dict>
+
+	<trackId>4</trackId>
+   <name>Landslide</name>
+ <artist>Fleetwood Mac</artist>
+  <album>The Dance</album>
+  <genre>soul</genre>
+  <year>2000</year>
+</dict>
+<dict>
+	<trackId>5</trackId>
+   <name>Landslide</name>
+ <artist>Fleetwood Mac</artist>
+  <album>The Dance</album>
+  <genre>hiphop</genre>
+  <year>1987</year>
+</dict>
+<dict>
+  <trackId>6</trackId>
+   <name>Landslide</name>
+ <artist>Mac and cheese</artist>
+  <album>The cheessses</album>
+  <genre>rap</genre>
+  <year>1990</year>
+</dict>
+   <dict>
+   <trackId>7</trackId>
+   <name>Landslide</name>
+ <artist>Fleetwood Mac</artist>
+  <album>The year</album>
+  <genre>hardcore</genre>
+  <year>1993</year>
+</dict>
+<dict>
+   <trackId>8</trackId>
+   <name>Landslide</name>
+ <artist>Fleetwood Mac</artist>
+  <album>The Dance</album>
+  <genre>rock</genre>
+  <year>1997</year>
+  </dict>
+  <dict>
+	  <trackId>9</trackId>
+   <name>Landslide</name>
+ <artist>Fleetwood Mac</artist>
+  <album>one dance</album>
+  <genre>dancehall</genre>
+  <year>1991</year>
+  </dict>
+   <dict>
+   <trackId>10</trackId>
+   <name>Landslide</name>
+ <artist>Fleetwood Mac</artist>
+  <album>scorpioon</album>
+  <genre>rap/hiphop</genre>
+  <year>2018</year>
+   </dict>
+   
+   <dict>
+   <trackId>11</trackId>
+   <name>Landslide</name>
+ <artist>Meek mill</artist>
+  <album>championship</album>
+  <genre>rap</genre>
+  <year>2018</year>
+  
+    </dict>
+ </playlist>
+
+
